@@ -1,0 +1,21 @@
+header {
+  height:.8rem;
+  background:#fff;
+}
+.logo {
+  float:left;
+  width:1.25rem;
+  height:.56rem;
+  background: url("../img/logo.png") no-repeat;
+  background-size:cover;
+}
+.logo img {
+  width:100%;
+}
+.shoppingCar {
+  width:.34rem;
+  height:.34rem;
+  float:right;
+  background: url("../img/shoppingcar.png") no-repeat;
+  background-size:cover;
+}
